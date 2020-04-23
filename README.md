@@ -2,3 +2,5 @@
 Nome: FELIPE RODRIGO DIAS RA: 1900099
 
 Teste de integração ao Travis.
+  
+  funcionalidade_bd  
