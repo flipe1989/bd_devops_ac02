@@ -1,4 +1,2 @@
-# bd_devops_ac02
-Nome: FELIPE RODRIGO DIAS RA: 1900099
-
-Teste de integração ao Travis.
+# db_devops_aula06  
+Testando se travis roda no commit do README
